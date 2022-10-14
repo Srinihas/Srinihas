@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me gmail
+- 📫 You can reach me through my gmail longlivesgodzilla6059@gmail.com
 
 <!---
 Srinihas/Srinihas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
